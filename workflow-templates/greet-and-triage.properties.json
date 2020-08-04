@@ -1,0 +1,9 @@
+{
+    "name": "Greet & Triage",
+    "description": "For Learning Lab courses, greets new contributors and triages new issues into the maintenance project board.",
+    "iconName": "learning-lab",
+    "filePatterns": [
+        "config.yml",
+        "responses"
+    ]
+}
